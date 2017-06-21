@@ -1,5 +1,9 @@
 # exrs
-Exercises for learning Reverse Engineering and Exploitation.
+Exercises for learning Reverse Engineering and Exploitation, originally cloned 
+from https://github.com/wapiflapi/exrs, with the addition of reversed source
+code in c and solutions.
+
+## -- Original Readme --
 
 All binaries for these challenges are ELF 64-bit LSB executable, x86-64.
 
